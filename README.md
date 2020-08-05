@@ -16,11 +16,9 @@ a poc JupyterNotebook is generated as docker by myBinder.org
 thx  to the binder people 
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/pflegende/TryPySpread_on_ipynb/1e88e29?filepath=https%3A%2F%2Fgithub.com%2Fpflegende%2FTryPySpread_on_ipynb%2Fblob%2Fmaster%2FTryPySpread_on_ipynb.ipynb)
+
 may be it works:
 (go rumour around, is some delay in the cache cleaner on mybinder, so you got some old version ... )
-
-.. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/pflegende/TryPySpread_on_ipynb/1e88e29?filepath=https%3A%2F%2Fgithub.com%2Fpflegende%2FTryPySpread_on_ipynb%2Fblob%2Fmaster%2FTryPySpread_on_ipynb.ipynb
  
  if you are not one of the so happy people working with binder-links on 1st try
  
@@ -36,7 +34,7 @@ may be it works:
 
  
  put the 
- [![ipynb link ](https://github.com/pflegende/TryPySpread_on_ipynb/blob/master/TryPySpread_on_ipynb.ipynb)
+ [ipynb link ](https://github.com/pflegende/TryPySpread_on_ipynb/blob/master/TryPySpread_on_ipynb.ipynb)
  
  in the field of input
  
